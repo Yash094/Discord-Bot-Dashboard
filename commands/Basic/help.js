@@ -14,7 +14,7 @@ module.exports = {
         .setLabel('Dashboard')
         .setStyle('url')
         .setEmoji('⭐')
-        .setURL('https://example.com')
+        .setURL('https://yashirobot.cf')
 
       let button2 = new MessageButton()
         .setLabel('Invite')
@@ -60,7 +60,10 @@ module.exports = {
 
       let emx = new MessageEmbed()
         .setDescription("Run <prefix>help <command name>")
-        .setColor("GREEN")
+        .setTitle("HELP MENU 🔰 Commands")
+        .addField("• Developer", `\`\`\`Name:Yash#0001 [488225580156715008]\`\`\``)
+        .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands)\`|\`[Support Server](https://discord.gg/emD44ZJaSA)\`|\`[Dashboard](https:/yashirobot.cf)\**`)
+        .setColor("WHITE")
         .setFooter(client.user.username, client.user.displayAvatarURL())
         .setThumbnail(client.user.displayAvatarURL());
 
@@ -78,7 +81,7 @@ module.exports = {
       for (const [key, value] of Object.entries(com)) {
         let category = key;
 
-        let desc = "`" + value.join("`, `") + "`";
+        let desc = "`" + value.join("` | `") + "`";
 
         emx.addField(`${category.toUpperCase()}`, desc);
       }
