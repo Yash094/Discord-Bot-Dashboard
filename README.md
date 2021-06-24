@@ -16,7 +16,7 @@
 
 ## [JOIN SUPPORT SERVER FOR HELP](https://discord.com/invite/emD44ZJaSA)
 
-# COMMANDS
+# COMMANDS TO DO LIST
 * AUDIT LOG SYSTEM ✔️
 * IMAGE COMMANDDS FROM [MEMER API](htps://memer-api.js.org) ✔️
 * MOD COMANNDS ❌
