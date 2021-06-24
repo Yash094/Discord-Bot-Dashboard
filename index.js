@@ -39,8 +39,9 @@ client.on("ready", async () => {
 
   console.log(`Bot is ready. (${client.guilds.cache.size} Guilds - ${client.channels.cache.size} Channels - ${client.users.cache.size} Users)`);
   Dashboard(client);
-  client.user.setActivity('YO VAI', ({ type: "WATCHING" }))
+  client.user.setActivity('BOT BY YASH | GITHUB - https://github.com/Yash094/Discord-Dashboard-Bot', ({ type: "WATCHING" }))
 });
+
 
 
 client.on("message", async message => {
