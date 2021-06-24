@@ -290,7 +290,7 @@ ${newMessage.content.replace(/`/g, "'")}
         c,
         role.guild,
         "GREEN",
-        "ROLE CREATED"`ROLE: ${role}\nROLENAME: ${role.name}\nROLEID: ${role.id}\nHEXCOLOR: ${role.hexColor}\nPOSITION: ${role.position}`
+        `ROLE: ${role}\nROLENAME: ${role.name}\nROLEID: ${role.id}\nHEXCOLOR: ${role.hexColor}\nPOSITION: ${role.position}`
       );
     });
 
