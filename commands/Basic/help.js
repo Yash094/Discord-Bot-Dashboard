@@ -13,14 +13,14 @@ module.exports = {
       let button = new MessageButton()
         .setLabel('Dashboard')
         .setStyle('url')
-        .setEmoji('⭐')
+        .setEmoji('857596154871021568')
         .setURL('https://yashirobot.cf')
 
       let button2 = new MessageButton()
         .setLabel('Invite')
         .setStyle('url')
         .setEmoji('❔')
-        .setURL(`https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot`)
+        .setURL(`https://discord.com/oauth2/authorize?client_id=857324947398590496&permissions=8&scope=bot`)
 
       let button3 = new MessageButton()
         .setLabel('Support Server')
@@ -62,7 +62,7 @@ module.exports = {
         .setDescription("Run <prefix>help <command name>")
         .setTitle("HELP MENU 🔰 Commands")
         .addField("• Developer", `\`\`\`Name:Yash#0001 [488225580156715008]\`\`\``)
-        .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands)\`|\`[Support Server](https://discord.gg/emD44ZJaSA)\`|\`[Dashboard](https:/yashirobot.cf)\**`)
+        .addField("• Important Links", `**[Invite Link](https://discord.com/oauth2/authorize?client_id=857324947398590496&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/emD44ZJaSA)\`|\`[Dashboard](https:/yashirobot.cf)\**`)
         .setColor("WHITE")
         .setFooter(client.user.username, client.user.displayAvatarURL())
         .setThumbnail(client.user.displayAvatarURL());
