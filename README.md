@@ -28,7 +28,7 @@
 
 [MongoDB LINK](https://www.mongodb.com/)
 * Create a free cluster get you connection url and post it in config.json
-* Mongo db [setup](https://github.com/Yash094/Discord-Dashboard-Bot/wiki/Setup-Mongodb) on how to get mongo url for your bot.
+* Mongo db [setup](https://github.com/Yash094/Discord-Dashboard-Bot/wiki/mongodb-setup) on how to get mongo url for your bot.
 
 
 # Installation | How to use the Template
