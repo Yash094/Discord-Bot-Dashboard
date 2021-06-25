@@ -1,7 +1,7 @@
 {
-  "name": "discord-bot-dashboard-tutorial",
+  "name": "Yashiro Bot",
   "version": "1.0.0",
-  "description": "A simple discord bot dashboard which focuses on the dashboard itself.",
+  "description": "A simple discord bot with dashboard.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrAugu/discord-bot-dashboard.git"
+    "url": "git+https://github.com/Yash094/Discord-Dashboard-Bot.git"
   },
   "keywords": [
     "discord.js",
     "bot",
     "dashboard"
   ],
-  "author": "MrAugu#7917",
-  "license": "MIT",
+  "author": "Yash",
   "bugs": {
-    "url": "https://github.com/MrAugu/discord-bot-dashboard/issues"
+    "url": "https://github.com/Yash094/Discord-Dashboard-Bot/issues"
   },
-  "homepage": "https://github.com/MrAugu/discord-bot-dashboard#readme",
+  "homepage": "https://github.com/Yash094/Discord-Dashboard-Bot#readme",
   "dependencies": {
     "ascii-table": "0.0.9",
     "autoprefixer": "^10.2.6",
