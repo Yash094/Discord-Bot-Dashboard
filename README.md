@@ -39,7 +39,7 @@
 
  **3.** Install all of the packages with **`npm install`**
 
- **4.** Fill in the parameters, RIGHT in `./config.json` (GET THE MEMER API TOKEN FROM [HERE](https://discord.com/invite/emD44ZJaSA))
+ **4.** Fill in the parameters, RIGHT in `./config.js` (GET THE MEMER API TOKEN FROM [HERE](https://discord.com/invite/emD44ZJaSA))
 
  **5.** Add callback URI in discord portal. eg - https://yourdomainname.com/callback
 
