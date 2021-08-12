@@ -175,7 +175,7 @@ module.exports = async (client) => {
   });
 
   // Settings endpoint.
-  app.get("/dashboard/:guildID", checkAuth, async (req, res) => {
+  app.get("/dashboard/:guildId", checkAuth, async (req, res) => {
     // We validate the request, check if guild exists, member is in guild and if member has minimum permissions, if not, we redirect it back.
     const guild = client.guilds.cache.get(req.params.guildID);
     if (!guild) return res.redirect("/dashboard");
@@ -203,7 +203,7 @@ module.exports = async (client) => {
     renderTemplate(res, req, "settings.ejs", { guild, settings: storedSettings, alert: null });
   });
 
-  app.get("/dashboard/general/:guildID", checkAuth, async (req, res) => {
+  app.get("/dashboard/general/:guildId", checkAuth, async (req, res) => {
     // We validate the request, check if guild exists, member is in guild and if member has minimum permissions, if not, we redirect it back.
     const guild = client.guilds.cache.get(req.params.guildID);
     if (!guild) return res.redirect("/dashboard");
@@ -221,7 +221,7 @@ module.exports = async (client) => {
 
 
   // Settings endpoint.
-  app.post("/dashboard/general/:guildID", checkAuth, async (req, res) => {
+  app.post("/dashboard/general/:guildId", checkAuth, async (req, res) => {
     // We validate the request, check if guild exists, member is in guild and if member has minimum permissions, if not, we redirect it back.
     const guild = client.guilds.cache.get(req.params.guildID);
     if (!guild) return res.redirect("/dashboard");
