@@ -66,7 +66,7 @@
 ![IMAGE 3](https://media.discordapp.net/attachments/814919677113008139/856843111845724200/Screenshot_8.png?width=884&height=406)
 
 ## CREDITS
-
+* [V13 UPDATES BY GIZMO](https://github.com/gizmo-dev)
 * [BASE SETUP](https://github.com/MrAugu/simple-discordjs-dashboard)
 * [TAILWIND CSS](https://tailwindcss.com/)
 * [NODE](https://nodejs.org)
