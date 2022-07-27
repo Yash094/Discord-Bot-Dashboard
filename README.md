@@ -1,13 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-# THIS BOT IS THE CODE FOR [YASHIRO BOT](https://dsc.gg/yashiro). PLEASE INVITE THE BOT SO WE KEEP UPDATING THE REPO.
-
-
-## LIVE VERSION - [HERE](https://yashirobot.cf)
-
-## INVITE [YASHIRO BOT](https://dsc.gg/yashiro)
-
 ## [JOIN SUPPORT SERVER FOR HELP](https://discord.com/invite/emD44ZJaSA)
 
 # COMMANDS TO DO LIST
