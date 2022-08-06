@@ -1,6 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+## THIS CODE IS NO LONGER MAINTAINED, USE AT YOUR OWN RISK.
 ## [JOIN SUPPORT SERVER FOR HELP](https://discord.com/invite/emD44ZJaSA)
 
 # COMMANDS TO DO LIST
